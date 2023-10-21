@@ -1,0 +1,19 @@
+.latest-project-container {
+    width: 80%;
+    margin: 100px auto;
+    display: block;
+}
+
+
+.footer-links {
+    padding: 20px;
+}
+
+
+.project-container {
+    width: 80%;
+    height: 80%vh;
+    display: flex;
+    margin: 0 auto;
+
+}
